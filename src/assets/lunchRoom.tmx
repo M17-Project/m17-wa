@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.8" tiledversion="1.8.2" orientation="orthogonal" renderorder="right-down" width="29" height="19" tilewidth="32" tileheight="32" infinite="0" nextlayerid="12" nextobjectid="1">
+ <editorsettings>
+  <export target="../../lunchRoom.json" format="json"/>
+ </editorsettings>
  <tileset firstgid="1" name="Room_Builder" tilewidth="32" tileheight="32" tilecount="1000" columns="25">
   <image source="WA_Room_Builder.png" trans="ffffff" width="800" height="1280"/>
  </tileset>
@@ -19,7 +22,7 @@
  </tileset>
  <layer id="11" name="mainRoom" width="29" height="19">
   <properties>
-   <property name="exitUrl" value="https://play.workadventu.re/_/3xaymcmv2a/m17-project.github.io/m17-wa/map.json"/>
+   <property name="exitUrl" value="https://play.wa.m17.link/_/global/m17-project.github.io/m17-wa/map.json"/>
   </properties>
   <data encoding="csv">
 0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

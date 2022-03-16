@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/3xaymcmv2a\/m17-project.github.io\/m17-wa\/map.json"
+                 "value":"https:\/\/play.wa.m17.link\/_\/global\/m17-project.github.io\/m17-wa\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
