@@ -3,6 +3,10 @@
  <editorsettings>
   <export target="../../map.json" format="json"/>
  </editorsettings>
+ <properties>
+  <property name="script" value="https://unpkg.com/@workadventure/scripting-api-extra@^1/dist/bundle.js"/>
+  <property name="tutorial" type="bool" value="true"/>
+ </properties>
  <tileset firstgid="1" name="Room_Builder" tilewidth="32" tileheight="32" tilecount="1000" columns="25">
   <image source="WA_Room_Builder.png" trans="ffffff" width="800" height="1280"/>
  </tileset>
